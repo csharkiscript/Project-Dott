@@ -1,0 +1,121 @@
+@charset "UTF-8";
+form#form p{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 10pt;
+    
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+input[type="text"]{
+    border: 0px;
+    border-radius: 900px;
+    outline: none;
+    padding: 10px;
+    transition: padding .5s;
+}
+input[type="text"]:hover{
+    padding: 15px;
+    transition: padding .5s;
+}
+form{
+    text-align: left;
+    width: 500px;
+    padding: 10px;
+    
+}
+select{
+    border: 0px;
+    border-radius: 900px;
+    outline: none;
+    padding: 10px;
+    margin-top: 5px;
+    transition: padding .5s;
+}
+select:hover{
+    padding: 15px;
+    transition: padding .5s;
+}
+div#forma{
+    -webkit-box-align: end;
+    
+}
+div#fundo{
+    background: url("pppp.png") no-repeat;
+    background-size: 2000px;
+    background-position-y: -750px;
+    padding: 10px;
+    margin: 0px;
+    height: 517px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+input[type="button"]{
+    border-radius: 900px;
+    background-color: white;
+    border: 0px;
+    padding: 10px;
+    opacity: 1;
+    outline: none;
+    transition: opacity .5s;
+    
+}
+input[type="button"]:hover{
+    opacity: 0.5;
+    transition: opacity .5s;
+}
+h1 span{
+    color: whitesmoke;
+    transition: color .2s;
+}
+h1 span:hover{
+    color: red;
+    transition: color .2s;
+}
+footer#rodape{
+    margin: 4px;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 10pt;
+}
+label[for="button"]{
+    position: absolute;
+    opacity:0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    display: inline-block;
+    font-size: 25pt;
+    
+}
+li:hover{
+    font-weight: bold;
+    
+}
+nav#navegacao{
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+ul li{
+    padding-left: 20px;
+}
+div#twitter{
+    background: url("TWITTER-IMG.png") no-repeat;
+    background-size: 1500px;
+    padding: 10px;
+    margin: 0px;
+    width: auto;
+    height: 844px;
+    margin-bottom: 10px;
+}
