@@ -1,12 +1,12 @@
 @charset "UTF-8";
 form#form p{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 10pt;
     
 }
 body{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 input[type="text"]{
     border: 0px;
@@ -51,7 +51,7 @@ div#fundo{
 }
 
 h1{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 
